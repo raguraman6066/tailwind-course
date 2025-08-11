@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme {
+  --font-oswald: "Oswald", sans-serif;
+  --text-10xl: 10rem;
+  --color-regal-blue: #0000ff;
+}
